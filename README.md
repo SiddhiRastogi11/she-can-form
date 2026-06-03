@@ -2,7 +2,7 @@
 
 A responsive, full-stack web application built for the She Can Foundation internship assignment. This project implements a contact form using an MVC pattern.
 
-## ## Tech Stack
+## Tech Stack
 * **Backend Framework:** Java, Spring Boot 4.x
 * **Frontend View Engine:** Thymeleaf
 * **Styling Framework:** Tailwind CSS (via CDN)
